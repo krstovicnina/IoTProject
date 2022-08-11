@@ -1,4 +1,4 @@
-# ComputerVisionProject
+
 Smart House simulation Arduino project created for the Internet of Things course. 
 
 Final exam project
